@@ -1378,6 +1378,9 @@
   (junction (at 52.07 93.98) (diameter 0) (color 0 0 0 0)
     (uuid 005419ea-8c91-4027-962e-621c32220d96)
   )
+  (junction (at 97.79 43.18) (diameter 0) (color 0 0 0 0)
+    (uuid 07f01ccf-7c29-4c04-8813-4ea4f16e976f)
+  )
   (junction (at 187.96 93.98) (diameter 0) (color 0 0 0 0)
     (uuid 0850eff6-222e-4350-9435-528e24e11aeb)
   )
@@ -1386,6 +1389,12 @@
   )
   (junction (at 66.04 135.89) (diameter 0) (color 0 0 0 0)
     (uuid 0b652680-df34-4a63-94d9-9c1d28b99da5)
+  )
+  (junction (at 54.61 36.83) (diameter 0) (color 0 0 0 0)
+    (uuid 0ec48ea5-91fb-4e67-9b93-11e248db04c7)
+  )
+  (junction (at 97.79 38.1) (diameter 0) (color 0 0 0 0)
+    (uuid 134ec5ab-95a0-4fdd-b73c-4b302001a27a)
   )
   (junction (at 102.87 106.68) (diameter 0) (color 0 0 0 0)
     (uuid 19cde917-0c24-4127-9849-99299c755854)
@@ -1423,6 +1432,9 @@
   (junction (at 203.2 149.86) (diameter 0) (color 0 0 0 0)
     (uuid 44c5482c-4c25-48bc-a2f9-d9386fb88498)
   )
+  (junction (at 54.61 33.02) (diameter 0) (color 0 0 0 0)
+    (uuid 50f029b8-3139-4389-a4ff-722a8a8f300d)
+  )
   (junction (at 113.03 109.22) (diameter 0) (color 0 0 0 0)
     (uuid 52d4e021-f331-41a9-9e65-b63623f00e54)
   )
@@ -1437,6 +1449,9 @@
   )
   (junction (at 81.28 135.89) (diameter 0) (color 0 0 0 0)
     (uuid 62c5f59e-6c1b-45fa-b543-b08b6c7ce97c)
+  )
+  (junction (at 97.79 40.64) (diameter 0) (color 0 0 0 0)
+    (uuid 6e64458e-68c6-45bc-a5e7-88d3d3ac13f8)
   )
   (junction (at 54.61 58.42) (diameter 0) (color 0 0 0 0)
     (uuid 7b90406d-17ac-4229-a3e3-ecafffdc3ec9)
@@ -1455,6 +1470,9 @@
   )
   (junction (at 165.1 129.54) (diameter 0) (color 0 0 0 0)
     (uuid 8c989a01-6631-40ab-ba1c-c178ff99c80a)
+  )
+  (junction (at 54.61 38.1) (diameter 0) (color 0 0 0 0)
+    (uuid 8f051ca2-70e9-43a0-bd02-dbae058b24d5)
   )
   (junction (at 106.68 53.34) (diameter 0) (color 0 0 0 0)
     (uuid 93fec44d-db69-4f9b-8f8f-0dfe8766cb6c)
@@ -1501,6 +1519,9 @@
   (junction (at 124.46 180.34) (diameter 0) (color 0 0 0 0)
     (uuid d7635d8f-c9f2-4151-8bcf-49d1ff8ec950)
   )
+  (junction (at 54.61 35.56) (diameter 0) (color 0 0 0 0)
+    (uuid dccd4bd0-f1ef-476e-84b1-5cb912f9fbf6)
+  )
   (junction (at 123.19 111.76) (diameter 0) (color 0 0 0 0)
     (uuid de12e64e-d58b-4f1a-a6af-79802e627a73)
   )
@@ -1535,6 +1556,10 @@
   (no_connect (at 17.78 121.92) (uuid e2b8abf9-0945-4195-9269-cc76e828da0c))
   (no_connect (at 133.35 189.23) (uuid f16867e7-51c0-41d8-b1d0-cb4deb9ed65d))
 
+  (wire (pts (xy 95.25 35.56) (xy 97.79 35.56))
+    (stroke (width 0) (type default))
+    (uuid 00cc96c5-f28d-427a-86f0-3c280c890a25)
+  )
   (wire (pts (xy 191.77 114.3) (xy 191.77 88.9))
     (stroke (width 0) (type default))
     (uuid 00d47362-6dcf-4816-b405-43a6ffa3426c)
@@ -1566,6 +1591,10 @@
   (wire (pts (xy 198.12 116.84) (xy 198.12 88.9))
     (stroke (width 0) (type default))
     (uuid 06890206-65e7-4838-9384-05f629d9d8dd)
+  )
+  (wire (pts (xy 54.61 36.83) (xy 54.61 38.1))
+    (stroke (width 0) (type default))
+    (uuid 0a255dea-698d-477e-a7b2-6ddfa6af00ea)
   )
   (wire (pts (xy 45.72 48.26) (xy 57.15 48.26))
     (stroke (width 0) (type default))
@@ -1602,6 +1631,10 @@
   (wire (pts (xy 113.03 109.22) (xy 128.27 109.22))
     (stroke (width 0) (type default))
     (uuid 11e2411d-3b4e-47fd-a98c-65969f294a0f)
+  )
+  (wire (pts (xy 95.25 45.72) (xy 97.79 45.72))
+    (stroke (width 0) (type default))
+    (uuid 11ea2ac8-9ad1-44c2-ac4d-0090cd641709)
   )
   (wire (pts (xy 133.35 50.8) (xy 109.22 50.8))
     (stroke (width 0) (type default))
@@ -1647,6 +1680,10 @@
     (stroke (width 0) (type default))
     (uuid 19585e84-ca3c-4f88-909f-1bf39b07d3fb)
   )
+  (wire (pts (xy 57.15 30.48) (xy 54.61 30.48))
+    (stroke (width 0) (type default))
+    (uuid 1b55a06a-f6cb-434a-ad10-efa59d5f67cc)
+  )
   (wire (pts (xy 104.14 111.76) (xy 123.19 111.76))
     (stroke (width 0) (type default))
     (uuid 1b5e0945-d69c-4eba-8467-a8648753edee)
@@ -1666,6 +1703,10 @@
   (wire (pts (xy 88.9 135.89) (xy 96.52 135.89))
     (stroke (width 0) (type default))
     (uuid 242e81ea-64ef-4215-90ac-e3a84fd88768)
+  )
+  (wire (pts (xy 97.79 43.18) (xy 97.79 45.72))
+    (stroke (width 0) (type default))
+    (uuid 24974f6f-31e5-4122-b8e1-6cfa2ff39ab0)
   )
   (wire (pts (xy 49.53 58.42) (xy 54.61 58.42))
     (stroke (width 0) (type default))
@@ -1690,6 +1731,10 @@
   (wire (pts (xy 109.22 50.8) (xy 95.25 50.8))
     (stroke (width 0) (type default))
     (uuid 27aff567-9f68-4580-8be7-e4dc6d751c70)
+  )
+  (wire (pts (xy 36.83 36.83) (xy 54.61 36.83))
+    (stroke (width 0) (type default))
+    (uuid 2842c69c-215d-4acf-ba72-2e04103615f0)
   )
   (wire (pts (xy 104.14 135.89) (xy 104.14 132.08))
     (stroke (width 0) (type default))
@@ -1795,6 +1840,10 @@
     (stroke (width 0) (type default))
     (uuid 3c2d702e-8f1b-42c3-bb5c-54513961cfd9)
   )
+  (wire (pts (xy 95.25 40.64) (xy 97.79 40.64))
+    (stroke (width 0) (type default))
+    (uuid 3ccbff2e-8f67-4225-af14-f3ca6448b926)
+  )
   (wire (pts (xy 232.41 50.8) (xy 232.41 41.91))
     (stroke (width 0) (type default))
     (uuid 3cdc8a05-ced8-4951-bf39-04a19d906e3f)
@@ -1851,9 +1900,17 @@
     (stroke (width 0) (type default))
     (uuid 456c1de7-2f86-4b34-87ed-de1392d78aab)
   )
+  (wire (pts (xy 54.61 30.48) (xy 54.61 33.02))
+    (stroke (width 0) (type default))
+    (uuid 458da379-d0af-4ddf-adfa-6ad82702cf77)
+  )
   (wire (pts (xy 128.27 41.91) (xy 128.27 55.88))
     (stroke (width 0) (type default))
     (uuid 474ccb26-3838-4fb1-b8a6-3685af981680)
+  )
+  (wire (pts (xy 97.79 35.56) (xy 97.79 38.1))
+    (stroke (width 0) (type default))
+    (uuid 47d4151b-5817-43d0-83d8-7758ae598cad)
   )
   (wire (pts (xy 50.8 135.89) (xy 58.42 135.89))
     (stroke (width 0) (type default))
@@ -2039,10 +2096,6 @@
     (stroke (width 0) (type default))
     (uuid 753ef43e-7a38-43cf-abe1-834544821f66)
   )
-  (wire (pts (xy 95.25 48.26) (xy 104.14 48.26))
-    (stroke (width 0) (type default))
-    (uuid 75bd8324-f1d4-408d-92d7-90e269bf8266)
-  )
   (wire (pts (xy 227.33 104.14) (xy 227.33 88.9))
     (stroke (width 0) (type default))
     (uuid 76d44f99-ed6a-402d-8bc6-5d8f1dd74255)
@@ -2094,6 +2147,10 @@
   (wire (pts (xy 116.84 124.46) (xy 120.65 124.46))
     (stroke (width 0) (type default))
     (uuid 815c67b8-d531-4e85-a773-3bf32190ed57)
+  )
+  (wire (pts (xy 54.61 33.02) (xy 54.61 35.56))
+    (stroke (width 0) (type default))
+    (uuid 81df2a4d-cc6a-40db-b052-ca0fa9ca8d99)
   )
   (wire (pts (xy 123.19 34.29) (xy 123.19 21.59))
     (stroke (width 0) (type default))
@@ -2179,7 +2236,7 @@
     (stroke (width 0) (type default))
     (uuid 8ec20cb0-d3d7-4680-892c-11640485bd93)
   )
-  (wire (pts (xy 95.25 43.18) (xy 104.14 43.18))
+  (wire (pts (xy 95.25 43.18) (xy 97.79 43.18))
     (stroke (width 0) (type default))
     (uuid 8ed91311-ec9c-4fb5-99b5-a6e473047b57)
   )
@@ -2202,6 +2259,10 @@
   (wire (pts (xy 193.04 31.75) (xy 173.99 31.75))
     (stroke (width 0) (type default))
     (uuid 90507b27-1bd0-48c0-8636-6b7ac88c8054)
+  )
+  (wire (pts (xy 97.79 38.1) (xy 97.79 40.64))
+    (stroke (width 0) (type default))
+    (uuid 90650309-2845-4680-9b4e-862f2f7b1df3)
   )
   (wire (pts (xy 163.83 99.06) (xy 200.66 99.06))
     (stroke (width 0) (type default))
@@ -2335,9 +2396,21 @@
     (stroke (width 0) (type default))
     (uuid aff2139d-bda9-4384-8dfb-6c0300bf0c73)
   )
+  (wire (pts (xy 57.15 33.02) (xy 54.61 33.02))
+    (stroke (width 0) (type default))
+    (uuid b0c0446b-0653-43d3-984d-a76452048f7d)
+  )
   (wire (pts (xy 73.66 101.6) (xy 73.66 114.3))
     (stroke (width 0) (type default))
     (uuid b289c316-d8be-4973-9f3c-78650cf7ac6a)
+  )
+  (wire (pts (xy 54.61 38.1) (xy 54.61 40.64))
+    (stroke (width 0) (type default))
+    (uuid b6cbfdfb-2f20-4804-9477-f750fcfcd767)
+  )
+  (wire (pts (xy 54.61 35.56) (xy 57.15 35.56))
+    (stroke (width 0) (type default))
+    (uuid b6d91477-c377-4e89-b17a-0143c8c84fd5)
   )
   (wire (pts (xy 251.46 38.1) (xy 255.27 38.1))
     (stroke (width 0) (type default))
@@ -2346,6 +2419,10 @@
   (wire (pts (xy 203.2 149.86) (xy 200.66 149.86))
     (stroke (width 0) (type default))
     (uuid b9b96214-5d67-400c-a9f0-7fd2d8f9247f)
+  )
+  (wire (pts (xy 54.61 38.1) (xy 57.15 38.1))
+    (stroke (width 0) (type default))
+    (uuid bb647ece-9c6d-45be-97b5-abe4a1f00e90)
   )
   (wire (pts (xy 88.9 132.08) (xy 88.9 135.89))
     (stroke (width 0) (type default))
@@ -2386,6 +2463,10 @@
   (wire (pts (xy 176.53 154.94) (xy 176.53 114.3))
     (stroke (width 0) (type default))
     (uuid c13c7cbc-483f-448b-bb6a-9da359489962)
+  )
+  (wire (pts (xy 54.61 35.56) (xy 54.61 36.83))
+    (stroke (width 0) (type default))
+    (uuid c3ece67c-1b26-4644-bdae-abe5accb94c2)
   )
   (wire (pts (xy 200.66 99.06) (xy 256.54 99.06))
     (stroke (width 0) (type default))
@@ -2471,6 +2552,10 @@
     (stroke (width 0) (type default))
     (uuid d5834c54-8cb3-4fb7-98bd-ed0f9f9d3cb4)
   )
+  (wire (pts (xy 97.79 40.64) (xy 97.79 43.18))
+    (stroke (width 0) (type default))
+    (uuid d6712520-bb7a-4c75-b72e-1bb228072008)
+  )
   (wire (pts (xy 99.06 30.48) (xy 99.06 24.13))
     (stroke (width 0) (type default))
     (uuid d6d09791-dbce-4781-8681-a4d6a68ad1e4)
@@ -2499,6 +2584,10 @@
     (stroke (width 0) (type default))
     (uuid da818386-be93-4918-bc28-7132077f7faa)
   )
+  (wire (pts (xy 95.25 38.1) (xy 97.79 38.1))
+    (stroke (width 0) (type default))
+    (uuid dadc69b6-e3aa-4a7f-a061-9d3918e34f8c)
+  )
   (wire (pts (xy 81.28 104.14) (xy 92.71 104.14))
     (stroke (width 0) (type default))
     (uuid deddfd87-0300-42fb-8335-c81f007b0650)
@@ -2523,6 +2612,10 @@
     (stroke (width 0) (type default))
     (uuid e15f81b1-36a8-49eb-aa26-c9656b81e202)
   )
+  (wire (pts (xy 97.79 43.18) (xy 104.14 43.18))
+    (stroke (width 0) (type default))
+    (uuid e1ca6acf-0297-4cb9-8f99-4d2cb72c991b)
+  )
   (wire (pts (xy 255.27 38.1) (xy 255.27 40.64))
     (stroke (width 0) (type default))
     (uuid e4844cc9-cd4c-497a-b892-8f4501b46095)
@@ -2530,6 +2623,10 @@
   (wire (pts (xy 193.04 147.32) (xy 193.04 149.86))
     (stroke (width 0) (type default))
     (uuid e4c2fc64-44ff-4683-b0a2-99313e15b2e0)
+  )
+  (wire (pts (xy 95.25 48.26) (xy 104.14 48.26))
+    (stroke (width 0) (type default))
+    (uuid e4eb5fc3-67fc-4f4b-be94-4227ad43fd88)
   )
   (wire (pts (xy 142.24 180.34) (xy 142.24 181.61))
     (stroke (width 0) (type default))
@@ -2615,6 +2712,10 @@
     (stroke (width 0) (type default))
     (uuid fab03e79-6de8-427f-962c-fa379b5a276f)
   )
+  (wire (pts (xy 54.61 40.64) (xy 57.15 40.64))
+    (stroke (width 0) (type default))
+    (uuid fdefcb62-698d-4763-be29-895192e8acc5)
+  )
   (wire (pts (xy 179.07 152.4) (xy 185.42 152.4))
     (stroke (width 0) (type default))
     (uuid fe14a510-9c4c-4ac2-880a-f489c513cac6)
@@ -2628,67 +2729,67 @@
     (uuid ff27106b-849b-4562-80b5-83250a90a60c)
   )
 
-  (hierarchical_label "A2" (shape input) (at 226.06 20.32 0)
+  (hierarchical_label "A2" (shape input) (at 226.06 20.32 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid 00761f04-9ad9-4b1a-bc72-312f69fb3d70)
   )
-  (hierarchical_label "BUS_5" (shape bidirectional) (at 256.54 99.06 0)
+  (hierarchical_label "BUS_5" (shape bidirectional) (at 256.54 99.06 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid 05563899-b10e-49a9-8ed4-33f8264b2fee)
   )
-  (hierarchical_label "CLK" (shape input) (at 116.84 134.62 180)
+  (hierarchical_label "CLK" (shape input) (at 116.84 134.62 180) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify right))
     (uuid 3e2525a0-6c4f-4a02-b91d-83bbc8fe80b3)
   )
-  (hierarchical_label "BUS_7" (shape bidirectional) (at 256.54 93.98 0)
+  (hierarchical_label "BUS_7" (shape bidirectional) (at 256.54 93.98 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid 3f4c4b83-0c64-448c-94a6-e51a66a60402)
   )
-  (hierarchical_label "BUS_1" (shape bidirectional) (at 256.54 109.22 0)
+  (hierarchical_label "BUS_1" (shape bidirectional) (at 256.54 109.22 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid 45537336-e983-4ace-b3bf-1d4db492e937)
   )
-  (hierarchical_label "BUS_2" (shape bidirectional) (at 256.54 106.68 0)
+  (hierarchical_label "BUS_2" (shape bidirectional) (at 256.54 106.68 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid 48056873-396c-4aad-a187-c692439e8b4c)
   )
-  (hierarchical_label "A3" (shape input) (at 226.06 22.86 0)
+  (hierarchical_label "A3" (shape input) (at 226.06 22.86 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid 49772919-cbfd-4e3e-8a01-a798f5bf05e1)
   )
-  (hierarchical_label "PROG" (shape input) (at 116.84 129.54 180)
+  (hierarchical_label "PROG" (shape input) (at 116.84 129.54 180) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify right))
     (uuid 5e15c302-3b39-4c23-b4f1-949aa06cdf8d)
   )
-  (hierarchical_label "~{RO}" (shape input) (at 116.84 124.46 180)
+  (hierarchical_label "~{RO}" (shape input) (at 116.84 124.46 180) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify right))
     (uuid 6247cf65-296d-4919-b28d-44ae48d908a5)
   )
-  (hierarchical_label "RI" (shape input) (at 116.84 139.7 180)
+  (hierarchical_label "RI" (shape input) (at 116.84 139.7 180) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify right))
     (uuid 69d52a8c-a7cd-4f16-a644-ab777b8e7c01)
   )
-  (hierarchical_label "A1" (shape input) (at 226.06 17.78 0)
+  (hierarchical_label "A1" (shape input) (at 226.06 17.78 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid 6ed38780-c863-41e8-ad67-6f483f499e88)
   )
-  (hierarchical_label "BUS_0" (shape bidirectional) (at 256.54 111.76 0)
+  (hierarchical_label "BUS_0" (shape bidirectional) (at 256.54 111.76 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid 8067a8fc-0ea2-40c2-916c-13d290ef73e5)
   )
-  (hierarchical_label "A0" (shape input) (at 226.06 15.24 0)
+  (hierarchical_label "A0" (shape input) (at 226.06 15.24 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid 9d57a8e2-229e-42c9-8ce3-1e8156b1f298)
   )
-  (hierarchical_label "BUS_3" (shape bidirectional) (at 256.54 104.14 0)
+  (hierarchical_label "BUS_3" (shape bidirectional) (at 256.54 104.14 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid c6ba5221-2403-401f-a303-7489edb82515)
   )
-  (hierarchical_label "BUS_4" (shape bidirectional) (at 256.54 101.6 0)
+  (hierarchical_label "BUS_4" (shape bidirectional) (at 256.54 101.6 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid c7a0b0e7-c9fa-431a-9afc-00f75eee6207)
   )
-  (hierarchical_label "BUS_6" (shape bidirectional) (at 256.54 96.52 0)
+  (hierarchical_label "BUS_6" (shape bidirectional) (at 256.54 96.52 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid e94918b7-3c44-4b21-ae4a-8df2218c9a21)
   )
@@ -2725,6 +2826,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "U28") (unit 1)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "U28") (unit 1)
         )
       )
@@ -2766,6 +2872,11 @@
           (reference "U28") (unit 2)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "U28") (unit 2)
+        )
+      )
     )
   )
 
@@ -2801,6 +2912,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "U28") (unit 3)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "U28") (unit 3)
         )
       )
@@ -2842,6 +2958,11 @@
           (reference "U28") (unit 4)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "U28") (unit 4)
+        )
+      )
     )
   )
 
@@ -2877,6 +2998,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "U29") (unit 3)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "U29") (unit 3)
         )
       )
@@ -2918,6 +3044,11 @@
           (reference "U29") (unit 2)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "U29") (unit 2)
+        )
+      )
     )
   )
 
@@ -2956,6 +3087,11 @@
           (reference "U29") (unit 1)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "U29") (unit 1)
+        )
+      )
     )
   )
 
@@ -2991,6 +3127,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "U29") (unit 6)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "U29") (unit 6)
         )
       )
@@ -3038,6 +3179,11 @@
           (reference "U30") (unit 1)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "U30") (unit 1)
+        )
+      )
     )
   )
 
@@ -3060,6 +3206,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "#PWR036") (unit 1)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "#PWR036") (unit 1)
         )
       )
@@ -3103,6 +3254,11 @@
           (reference "U26") (unit 1)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "U26") (unit 1)
+        )
+      )
     )
   )
 
@@ -3140,6 +3296,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "U27") (unit 1)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "U27") (unit 1)
         )
       )
@@ -3183,6 +3344,11 @@
           (reference "U32") (unit 1)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "U32") (unit 1)
+        )
+      )
     )
   )
 
@@ -3223,6 +3389,11 @@
           (reference "SW3") (unit 1)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "SW3") (unit 1)
+        )
+      )
     )
   )
 
@@ -3245,6 +3416,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "#PWR039") (unit 1)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "#PWR039") (unit 1)
         )
       )
@@ -3273,6 +3449,11 @@
           (reference "#PWR040") (unit 1)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "#PWR040") (unit 1)
+        )
+      )
     )
   )
 
@@ -3295,6 +3476,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "#PWR041") (unit 1)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "#PWR041") (unit 1)
         )
       )
@@ -3321,6 +3507,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "SW4") (unit 1)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "SW4") (unit 1)
         )
       )
@@ -3362,6 +3553,11 @@
           (reference "U31") (unit 1)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "U31") (unit 1)
+        )
+      )
     )
   )
 
@@ -3384,6 +3580,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "#PWR042") (unit 1)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "#PWR042") (unit 1)
         )
       )
@@ -3413,6 +3614,11 @@
           (reference "C7") (unit 1)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "C7") (unit 1)
+        )
+      )
     )
   )
 
@@ -3439,6 +3645,11 @@
           (reference "R58") (unit 1)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "R58") (unit 1)
+        )
+      )
     )
   )
 
@@ -3461,6 +3672,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "#PWR043") (unit 1)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "#PWR043") (unit 1)
         )
       )
@@ -3502,6 +3718,11 @@
           (reference "U31") (unit 2)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "U31") (unit 2)
+        )
+      )
     )
   )
 
@@ -3537,6 +3758,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "U31") (unit 3)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "U31") (unit 3)
         )
       )
@@ -3578,6 +3804,11 @@
           (reference "U31") (unit 4)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "U31") (unit 4)
+        )
+      )
     )
   )
 
@@ -3601,6 +3832,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "D43") (unit 1)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "D43") (unit 1)
         )
       )
@@ -3630,6 +3866,11 @@
           (reference "D42") (unit 1)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "D42") (unit 1)
+        )
+      )
     )
   )
 
@@ -3653,6 +3894,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "D41") (unit 1)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "D41") (unit 1)
         )
       )
@@ -3682,6 +3928,11 @@
           (reference "D40") (unit 1)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "D40") (unit 1)
+        )
+      )
     )
   )
 
@@ -3705,6 +3956,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "D39") (unit 1)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "D39") (unit 1)
         )
       )
@@ -3734,6 +3990,11 @@
           (reference "D38") (unit 1)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "D38") (unit 1)
+        )
+      )
     )
   )
 
@@ -3757,6 +4018,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "D37") (unit 1)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "D37") (unit 1)
         )
       )
@@ -3786,6 +4052,11 @@
           (reference "D36") (unit 1)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "D36") (unit 1)
+        )
+      )
     )
   )
 
@@ -3809,6 +4080,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "R50") (unit 1)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "R50") (unit 1)
         )
       )
@@ -3838,6 +4114,11 @@
           (reference "R51") (unit 1)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "R51") (unit 1)
+        )
+      )
     )
   )
 
@@ -3861,6 +4142,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "R52") (unit 1)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "R52") (unit 1)
         )
       )
@@ -3890,6 +4176,11 @@
           (reference "R53") (unit 1)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "R53") (unit 1)
+        )
+      )
     )
   )
 
@@ -3913,6 +4204,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "R54") (unit 1)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "R54") (unit 1)
         )
       )
@@ -3942,6 +4238,11 @@
           (reference "R55") (unit 1)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "R55") (unit 1)
+        )
+      )
     )
   )
 
@@ -3965,6 +4266,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "R56") (unit 1)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "R56") (unit 1)
         )
       )
@@ -3994,6 +4300,11 @@
           (reference "R57") (unit 1)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "R57") (unit 1)
+        )
+      )
     )
   )
 
@@ -4019,6 +4330,11 @@
           (reference "#PWR044") (unit 1)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "#PWR044") (unit 1)
+        )
+      )
     )
   )
 
@@ -4041,6 +4357,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "#PWR045") (unit 1)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "#PWR045") (unit 1)
         )
       )
@@ -4082,6 +4403,11 @@
           (reference "U28") (unit 5)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "U28") (unit 5)
+        )
+      )
     )
   )
 
@@ -4117,6 +4443,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "U28") (unit 6)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "U28") (unit 6)
         )
       )
@@ -4158,6 +4489,11 @@
           (reference "U29") (unit 5)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "U29") (unit 5)
+        )
+      )
     )
   )
 
@@ -4196,6 +4532,11 @@
           (reference "U29") (unit 4)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "U29") (unit 4)
+        )
+      )
     )
   )
 
@@ -4219,6 +4560,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "C17") (unit 1)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "C17") (unit 1)
         )
       )
@@ -4247,6 +4593,11 @@
           (reference "#PWR046") (unit 1)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "#PWR046") (unit 1)
+        )
+      )
     )
   )
 
@@ -4269,6 +4620,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "#PWR047") (unit 1)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "#PWR047") (unit 1)
         )
       )
@@ -4298,6 +4654,36 @@
           (reference "C16") (unit 1)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "C16") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:VCC") (at 95.25 27.94 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 2204223e-326f-4c59-bba7-20a3e8e657b0)
+    (property "Reference" "#PWR01" (at 95.25 31.75 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "VCC" (at 95.25 24.13 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 95.25 27.94 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 95.25 27.94 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 45325eae-1e56-4f61-bf8d-4879d3e01f41))
+    (instances
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "#PWR01") (unit 1)
+        )
+      )
     )
   )
 
@@ -4320,6 +4706,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "#PWR081") (unit 1)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "#PWR081") (unit 1)
         )
       )
@@ -4348,6 +4739,36 @@
           (reference "#PWR080") (unit 1)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "#PWR080") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GND") (at 36.83 36.83 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 4d23ab53-b55f-48c6-a309-762d2b75f95e)
+    (property "Reference" "#PWR02" (at 30.48 36.83 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 33.02 36.83 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 36.83 36.83 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 36.83 36.83 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 6cec22b3-4565-4b5c-bf8c-ffd5d596867d))
+    (instances
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "#PWR02") (unit 1)
+        )
+      )
     )
   )
 
@@ -4370,6 +4791,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "#PWR037") (unit 1)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "#PWR037") (unit 1)
         )
       )
@@ -4425,6 +4851,11 @@
           (reference "U25") (unit 1)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "U25") (unit 1)
+        )
+      )
     )
   )
 
@@ -4447,6 +4878,11 @@
     (instances
       (project "8bit-computer"
         (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+          (reference "#PWR038") (unit 1)
+        )
+      )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "#PWR038") (unit 1)
         )
       )
@@ -4494,6 +4930,40 @@
           (reference "U24") (unit 1)
         )
       )
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "U24") (unit 1)
+        )
+      )
     )
+  )
+
+  (symbol (lib_id "power:GND") (at 57.15 60.96 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid e9613a47-6bfb-449a-963d-70c46998e65c)
+    (property "Reference" "#PWR03" (at 57.15 67.31 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 57.15 64.77 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 57.15 60.96 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 57.15 60.96 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid cbc0dc70-fc84-45c9-b664-25e9d81ea921))
+    (instances
+      (project "ram"
+        (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
+          (reference "#PWR03") (unit 1)
+        )
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
   )
 )
