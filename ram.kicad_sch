@@ -1390,9 +1390,6 @@
   (junction (at 66.04 135.89) (diameter 0) (color 0 0 0 0)
     (uuid 0b652680-df34-4a63-94d9-9c1d28b99da5)
   )
-  (junction (at 54.61 36.83) (diameter 0) (color 0 0 0 0)
-    (uuid 0ec48ea5-91fb-4e67-9b93-11e248db04c7)
-  )
   (junction (at 97.79 38.1) (diameter 0) (color 0 0 0 0)
     (uuid 134ec5ab-95a0-4fdd-b73c-4b302001a27a)
   )
@@ -1584,6 +1581,10 @@
     (stroke (width 0) (type default))
     (uuid 0396be88-7505-4e06-812d-5b2edf58022e)
   )
+  (wire (pts (xy 38.1 35.56) (xy 54.61 35.56))
+    (stroke (width 0) (type default))
+    (uuid 05cde7ef-7460-4660-a5fc-08f4ced2420e)
+  )
   (wire (pts (xy 138.43 36.83) (xy 123.19 36.83))
     (stroke (width 0) (type default))
     (uuid 05e3e1df-f39c-45ad-a148-7f5fb71828bd)
@@ -1592,7 +1593,7 @@
     (stroke (width 0) (type default))
     (uuid 06890206-65e7-4838-9384-05f629d9d8dd)
   )
-  (wire (pts (xy 54.61 36.83) (xy 54.61 38.1))
+  (wire (pts (xy 54.61 35.56) (xy 54.61 38.1))
     (stroke (width 0) (type default))
     (uuid 0a255dea-698d-477e-a7b2-6ddfa6af00ea)
   )
@@ -1731,10 +1732,6 @@
   (wire (pts (xy 109.22 50.8) (xy 95.25 50.8))
     (stroke (width 0) (type default))
     (uuid 27aff567-9f68-4580-8be7-e4dc6d751c70)
-  )
-  (wire (pts (xy 36.83 36.83) (xy 54.61 36.83))
-    (stroke (width 0) (type default))
-    (uuid 2842c69c-215d-4acf-ba72-2e04103615f0)
   )
   (wire (pts (xy 104.14 135.89) (xy 104.14 132.08))
     (stroke (width 0) (type default))
@@ -2463,10 +2460,6 @@
   (wire (pts (xy 176.53 154.94) (xy 176.53 114.3))
     (stroke (width 0) (type default))
     (uuid c13c7cbc-483f-448b-bb6a-9da359489962)
-  )
-  (wire (pts (xy 54.61 35.56) (xy 54.61 36.83))
-    (stroke (width 0) (type default))
-    (uuid c3ece67c-1b26-4644-bdae-abe5accb94c2)
   )
   (wire (pts (xy 200.66 99.06) (xy 256.54 99.06))
     (stroke (width 0) (type default))
@@ -4665,7 +4658,7 @@
   (symbol (lib_id "power:VCC") (at 95.25 27.94 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2204223e-326f-4c59-bba7-20a3e8e657b0)
-    (property "Reference" "#PWR01" (at 95.25 31.75 0)
+    (property "Reference" "#PWR0104" (at 95.25 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (at 95.25 24.13 0)
@@ -4679,6 +4672,11 @@
     )
     (pin "1" (uuid 45325eae-1e56-4f61-bf8d-4879d3e01f41))
     (instances
+      (project "8bit-computer"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
+          (reference "#PWR0104") (unit 1)
+        )
+      )
       (project "ram"
         (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "#PWR01") (unit 1)
@@ -4747,23 +4745,28 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 36.83 36.83 270) (unit 1)
+  (symbol (lib_id "power:GND") (at 38.1 35.56 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4d23ab53-b55f-48c6-a309-762d2b75f95e)
-    (property "Reference" "#PWR02" (at 30.48 36.83 0)
+    (property "Reference" "#PWR0103" (at 31.75 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 33.02 36.83 0)
+    (property "Value" "GND" (at 34.29 35.56 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 36.83 36.83 0)
+    (property "Footprint" "" (at 38.1 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 36.83 36.83 0)
+    (property "Datasheet" "" (at 38.1 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 6cec22b3-4565-4b5c-bf8c-ffd5d596867d))
     (instances
+      (project "8bit-computer"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
+          (reference "#PWR0103") (unit 1)
+        )
+      )
       (project "ram"
         (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "#PWR02") (unit 1)
@@ -4941,7 +4944,7 @@
   (symbol (lib_id "power:GND") (at 57.15 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e9613a47-6bfb-449a-963d-70c46998e65c)
-    (property "Reference" "#PWR03" (at 57.15 67.31 0)
+    (property "Reference" "#PWR0102" (at 57.15 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 57.15 64.77 0)
@@ -4955,6 +4958,11 @@
     )
     (pin "1" (uuid cbc0dc70-fc84-45c9-b664-25e9d81ea921))
     (instances
+      (project "8bit-computer"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
+          (reference "#PWR0102") (unit 1)
+        )
+      )
       (project "ram"
         (path "/c8f4549e-1433-4994-b3c8-85097e8cdb88"
           (reference "#PWR03") (unit 1)
