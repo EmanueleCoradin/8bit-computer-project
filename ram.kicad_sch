@@ -2628,67 +2628,67 @@
     (uuid ff27106b-849b-4562-80b5-83250a90a60c)
   )
 
-  (hierarchical_label "A2" (shape input) (at 226.06 20.32 0)
+  (hierarchical_label "A2" (shape input) (at 226.06 20.32 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid 00761f04-9ad9-4b1a-bc72-312f69fb3d70)
   )
-  (hierarchical_label "BUS_5" (shape bidirectional) (at 256.54 99.06 0)
+  (hierarchical_label "BUS_5" (shape bidirectional) (at 256.54 99.06 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid 05563899-b10e-49a9-8ed4-33f8264b2fee)
   )
-  (hierarchical_label "CLK" (shape input) (at 116.84 134.62 180)
+  (hierarchical_label "CLK" (shape input) (at 116.84 134.62 180) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify right))
     (uuid 3e2525a0-6c4f-4a02-b91d-83bbc8fe80b3)
   )
-  (hierarchical_label "BUS_7" (shape bidirectional) (at 256.54 93.98 0)
+  (hierarchical_label "BUS_7" (shape bidirectional) (at 256.54 93.98 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid 3f4c4b83-0c64-448c-94a6-e51a66a60402)
   )
-  (hierarchical_label "BUS_1" (shape bidirectional) (at 256.54 109.22 0)
+  (hierarchical_label "BUS_1" (shape bidirectional) (at 256.54 109.22 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid 45537336-e983-4ace-b3bf-1d4db492e937)
   )
-  (hierarchical_label "BUS_2" (shape bidirectional) (at 256.54 106.68 0)
+  (hierarchical_label "BUS_2" (shape bidirectional) (at 256.54 106.68 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid 48056873-396c-4aad-a187-c692439e8b4c)
   )
-  (hierarchical_label "A3" (shape input) (at 226.06 22.86 0)
+  (hierarchical_label "A3" (shape input) (at 226.06 22.86 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid 49772919-cbfd-4e3e-8a01-a798f5bf05e1)
   )
-  (hierarchical_label "PROG" (shape input) (at 116.84 129.54 180)
+  (hierarchical_label "PROG" (shape input) (at 116.84 129.54 180) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify right))
     (uuid 5e15c302-3b39-4c23-b4f1-949aa06cdf8d)
   )
-  (hierarchical_label "~{RO}" (shape input) (at 116.84 124.46 180)
+  (hierarchical_label "~{RO}" (shape input) (at 116.84 124.46 180) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify right))
     (uuid 6247cf65-296d-4919-b28d-44ae48d908a5)
   )
-  (hierarchical_label "RI" (shape input) (at 116.84 139.7 180)
+  (hierarchical_label "RI" (shape input) (at 116.84 139.7 180) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify right))
     (uuid 69d52a8c-a7cd-4f16-a644-ab777b8e7c01)
   )
-  (hierarchical_label "A1" (shape input) (at 226.06 17.78 0)
+  (hierarchical_label "A1" (shape input) (at 226.06 17.78 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid 6ed38780-c863-41e8-ad67-6f483f499e88)
   )
-  (hierarchical_label "BUS_0" (shape bidirectional) (at 256.54 111.76 0)
+  (hierarchical_label "BUS_0" (shape bidirectional) (at 256.54 111.76 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid 8067a8fc-0ea2-40c2-916c-13d290ef73e5)
   )
-  (hierarchical_label "A0" (shape input) (at 226.06 15.24 0)
+  (hierarchical_label "A0" (shape input) (at 226.06 15.24 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid 9d57a8e2-229e-42c9-8ce3-1e8156b1f298)
   )
-  (hierarchical_label "BUS_3" (shape bidirectional) (at 256.54 104.14 0)
+  (hierarchical_label "BUS_3" (shape bidirectional) (at 256.54 104.14 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid c6ba5221-2403-401f-a303-7489edb82515)
   )
-  (hierarchical_label "BUS_4" (shape bidirectional) (at 256.54 101.6 0)
+  (hierarchical_label "BUS_4" (shape bidirectional) (at 256.54 101.6 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid c7a0b0e7-c9fa-431a-9afc-00f75eee6207)
   )
-  (hierarchical_label "BUS_6" (shape bidirectional) (at 256.54 96.52 0)
+  (hierarchical_label "BUS_6" (shape bidirectional) (at 256.54 96.52 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid e94918b7-3c44-4b21-ae4a-8df2218c9a21)
   )
@@ -2724,7 +2724,7 @@
     (pin "13" (uuid 2776e55e-1048-42ff-b973-96c838205855))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "U28") (unit 1)
         )
       )
@@ -2762,7 +2762,7 @@
     (pin "13" (uuid dc81d40a-e72c-4cd9-9ae0-e8eea84c13e5))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "U28") (unit 2)
         )
       )
@@ -2800,7 +2800,7 @@
     (pin "13" (uuid c22a1669-8e30-4008-9432-5228a7c3213c))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "U28") (unit 3)
         )
       )
@@ -2838,7 +2838,7 @@
     (pin "13" (uuid 17c2e845-9217-4318-9c64-d41bbc5caeae))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "U28") (unit 4)
         )
       )
@@ -2876,7 +2876,7 @@
     (pin "13" (uuid d88c7072-854f-4240-9c70-009f71ca3fb2))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "U29") (unit 3)
         )
       )
@@ -2914,7 +2914,7 @@
     (pin "13" (uuid d97a6fad-76db-4458-821d-6e6581d5ad3e))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "U29") (unit 2)
         )
       )
@@ -2952,7 +2952,7 @@
     (pin "13" (uuid d8826967-488a-4ffc-b32f-e5f3ed03fc53))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "U29") (unit 1)
         )
       )
@@ -2990,7 +2990,7 @@
     (pin "13" (uuid 5c0924cf-54ec-4f89-b73b-7e1871ce3be1))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "U29") (unit 6)
         )
       )
@@ -3034,7 +3034,7 @@
     (pin "9" (uuid 2bdea35d-7249-4f9a-8054-b0292e65a81e))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "U30") (unit 1)
         )
       )
@@ -3059,7 +3059,7 @@
     (pin "1" (uuid 4929de2f-0d66-426f-861a-2eafcc4f668b))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "#PWR036") (unit 1)
         )
       )
@@ -3099,7 +3099,7 @@
     (pin "9" (uuid 9937e052-5bba-4fb1-9266-cd9f6891ae6c))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "U26") (unit 1)
         )
       )
@@ -3139,7 +3139,7 @@
     (pin "9" (uuid 59e11853-83fa-4867-9840-cd008547fbd6))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "U27") (unit 1)
         )
       )
@@ -3179,7 +3179,7 @@
     (pin "9" (uuid c3c2b23e-caab-4583-950a-c1a0630047cb))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "U32") (unit 1)
         )
       )
@@ -3219,7 +3219,7 @@
     (pin "9" (uuid d7c2e93c-304e-4302-b539-efe00db09292))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "SW3") (unit 1)
         )
       )
@@ -3244,7 +3244,7 @@
     (pin "1" (uuid b47cab5e-1520-4abc-b265-747313ff7cb8))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "#PWR039") (unit 1)
         )
       )
@@ -3269,7 +3269,7 @@
     (pin "1" (uuid beae8e9d-cb66-41a2-a8cd-125b1f562744))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "#PWR040") (unit 1)
         )
       )
@@ -3294,7 +3294,7 @@
     (pin "1" (uuid cc9abc38-ca19-4149-a5f6-33df5feae225))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "#PWR041") (unit 1)
         )
       )
@@ -3320,7 +3320,7 @@
     (pin "2" (uuid c478368f-bc48-49f7-bb30-4e2c38cc6664))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "SW4") (unit 1)
         )
       )
@@ -3358,7 +3358,7 @@
     (pin "13" (uuid bf3132c6-ed3b-4ae1-b9bf-6b316c32014e))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "U31") (unit 1)
         )
       )
@@ -3383,7 +3383,7 @@
     (pin "1" (uuid 47fdd899-d8b5-4f41-b517-18fdb571b920))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "#PWR042") (unit 1)
         )
       )
@@ -3409,7 +3409,7 @@
     (pin "2" (uuid 75400625-c38a-4627-a853-aca3f181e76a))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "C7") (unit 1)
         )
       )
@@ -3435,7 +3435,7 @@
     (pin "2" (uuid 286b1f9e-2738-4b12-a7e4-90951da54614))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "R58") (unit 1)
         )
       )
@@ -3460,7 +3460,7 @@
     (pin "1" (uuid 69e81f13-b90a-4ecf-9cbf-584c896d0a84))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "#PWR043") (unit 1)
         )
       )
@@ -3498,7 +3498,7 @@
     (pin "13" (uuid b5e5e90f-5fa1-458c-ac54-4e9c77dfc355))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "U31") (unit 2)
         )
       )
@@ -3536,7 +3536,7 @@
     (pin "13" (uuid e372f4fe-63a8-4be3-a06c-50dc66683db4))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "U31") (unit 3)
         )
       )
@@ -3574,7 +3574,7 @@
     (pin "13" (uuid 4a706604-c62a-4436-b29b-aa4a36aa698e))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "U31") (unit 4)
         )
       )
@@ -3600,7 +3600,7 @@
     (pin "2" (uuid 57923d97-c1fd-47d0-916f-8f014079b099))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "D43") (unit 1)
         )
       )
@@ -3626,7 +3626,7 @@
     (pin "2" (uuid b3d086f7-86a7-4649-8972-aff13b18d9f1))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "D42") (unit 1)
         )
       )
@@ -3652,7 +3652,7 @@
     (pin "2" (uuid e8a27e4e-abe4-4a2d-aefb-ac8639a97a25))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "D41") (unit 1)
         )
       )
@@ -3678,7 +3678,7 @@
     (pin "2" (uuid c2e3fe78-9d55-4bad-b9b3-aa2281369125))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "D40") (unit 1)
         )
       )
@@ -3704,7 +3704,7 @@
     (pin "2" (uuid eb437cb3-ccdb-43f4-9fba-9a74bb5174f9))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "D39") (unit 1)
         )
       )
@@ -3730,7 +3730,7 @@
     (pin "2" (uuid c620b613-1ee9-4b9a-848c-2c03b73c3ef4))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "D38") (unit 1)
         )
       )
@@ -3756,7 +3756,7 @@
     (pin "2" (uuid 35627e4c-c31b-4b27-b4d8-1fbb458bb55c))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "D37") (unit 1)
         )
       )
@@ -3782,7 +3782,7 @@
     (pin "2" (uuid b64888e5-4f37-49b8-b22f-2fa0fa59dd13))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "D36") (unit 1)
         )
       )
@@ -3808,7 +3808,7 @@
     (pin "2" (uuid 698a4d19-f984-4384-8d83-6975c56f484c))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "R50") (unit 1)
         )
       )
@@ -3834,7 +3834,7 @@
     (pin "2" (uuid 2bc0f8a1-15a8-4fa2-b5c9-b78a6e2750b3))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "R51") (unit 1)
         )
       )
@@ -3860,7 +3860,7 @@
     (pin "2" (uuid 08ce5c24-841e-4ada-baba-a19eb29ff480))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "R52") (unit 1)
         )
       )
@@ -3886,7 +3886,7 @@
     (pin "2" (uuid 022cf64e-6fc3-49de-9702-391709bdbd88))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "R53") (unit 1)
         )
       )
@@ -3912,7 +3912,7 @@
     (pin "2" (uuid 162268d3-68d1-4913-a2c5-35c3c7ce492b))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "R54") (unit 1)
         )
       )
@@ -3938,7 +3938,7 @@
     (pin "2" (uuid 277334bf-9c60-4a5f-a5a1-b9df1bde4f9b))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "R55") (unit 1)
         )
       )
@@ -3964,7 +3964,7 @@
     (pin "2" (uuid b639e613-b1e3-4b86-8f6c-358efcec58e3))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "R56") (unit 1)
         )
       )
@@ -3990,7 +3990,7 @@
     (pin "2" (uuid 112dae06-be7b-457d-8c72-15db7ee3d240))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "R57") (unit 1)
         )
       )
@@ -4015,7 +4015,7 @@
     (pin "1" (uuid 94300ed6-bf38-4c43-b4d1-6e0b5805857f))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "#PWR044") (unit 1)
         )
       )
@@ -4040,7 +4040,7 @@
     (pin "1" (uuid 8f3a7a40-5bd7-46c2-baf2-e714680e5e1c))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "#PWR045") (unit 1)
         )
       )
@@ -4078,7 +4078,7 @@
     (pin "13" (uuid f817d465-5826-4699-9b5b-a09c04e888fc))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "U28") (unit 5)
         )
       )
@@ -4116,7 +4116,7 @@
     (pin "13" (uuid 4f37acdf-3ea9-49e7-bedb-a5697af38389))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "U28") (unit 6)
         )
       )
@@ -4154,7 +4154,7 @@
     (pin "13" (uuid 0a2c43ff-4fd9-4281-82e7-228653ecfca7))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "U29") (unit 5)
         )
       )
@@ -4192,7 +4192,7 @@
     (pin "13" (uuid a3282c33-09ad-4767-a724-3745359c953d))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "U29") (unit 4)
         )
       )
@@ -4218,7 +4218,7 @@
     (pin "2" (uuid dc19eca0-b3fc-485d-86d1-b7241b53d3eb))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "C17") (unit 1)
         )
       )
@@ -4243,7 +4243,7 @@
     (pin "1" (uuid 8330d4db-8297-4524-960c-f3226ebbdc9e))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "#PWR046") (unit 1)
         )
       )
@@ -4268,7 +4268,7 @@
     (pin "1" (uuid 73e89d95-6abc-498e-ac1a-32ffc7d6dd3f))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "#PWR047") (unit 1)
         )
       )
@@ -4294,7 +4294,7 @@
     (pin "2" (uuid 8e05cc70-991d-429f-a7ef-3eb2d30ce82e))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "C16") (unit 1)
         )
       )
@@ -4319,7 +4319,7 @@
     (pin "1" (uuid 3c750824-20fc-476b-b011-47850ea0d2dc))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "#PWR081") (unit 1)
         )
       )
@@ -4344,7 +4344,7 @@
     (pin "1" (uuid 691af3aa-16b0-44f8-aa8f-a7aaf9b229e6))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "#PWR080") (unit 1)
         )
       )
@@ -4369,7 +4369,7 @@
     (pin "1" (uuid cde4168f-a84d-4f9c-bcfb-b8f83a856426))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "#PWR037") (unit 1)
         )
       )
@@ -4421,7 +4421,7 @@
     (pin "16" (uuid 730bf570-3bde-4b99-bd49-439cfc179434))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "U25") (unit 1)
         )
       )
@@ -4446,7 +4446,7 @@
     (pin "1" (uuid bf336fdc-2020-4fbb-ab79-8d37697e7232))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "#PWR038") (unit 1)
         )
       )
@@ -4490,7 +4490,7 @@
     (pin "9" (uuid 3a5428e5-47a0-49ad-a387-9b4de29b5b86))
     (instances
       (project "8bit-computer"
-        (path "/97cf821d-4184-422d-857e-1ca0cc9d2f6a/00000000-0000-0000-0000-00005b551e96"
+        (path "/6b77b9f1-1099-4db3-bd4e-d48066f72e59/00000000-0000-0000-0000-00005b551e96"
           (reference "U24") (unit 1)
         )
       )
